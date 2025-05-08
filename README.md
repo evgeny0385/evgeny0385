@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am from Orel. I have a higher education in the specialty of 'organization management'. I completed courses in programming in Python and continue to study.
+
 <!--
 **evgeny0385/evgeny0385** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
